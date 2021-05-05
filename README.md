@@ -14,6 +14,5 @@
         Mostly any CMS projects or Unity Engine games! 
 - 📫 How to reach me ...
         
-        Feel free to contact me via my (non-personal) website @ [YuGiCollection](https://yugicollection.com/contact.php)
-        OR
-        Throw me an email @ [Outlook](mailto:damonpitkethley53@outlook.com)
+        - Feel free to contact me via my (non-personal) website @ [YuGiCollection](https://yugicollection.com/contact.php)
+        - Throw me an email @ [Outlook](mailto:damonpitkethley53@outlook.com)
