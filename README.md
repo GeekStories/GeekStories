@@ -14,11 +14,6 @@
         Mostly any CMS projects or Unity Engine games! 
 - 📫 How to reach me ...
         
-        Feel free to contact me via my (non-personal) website @ https://yugicollection.com/contact.php
+        Feel free to contact me via my (non-personal) website @ [YuGiCollection](https://yugicollection.com/contact.php)
         OR
-        Throw me an email @ [Outlook](mailto:damonpitkethley53@outlook.com)        
-
-<!---
-GeekStories/GeekStories is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+        Throw me an email @ [Outlook](mailto:damonpitkethley53@outlook.com)
