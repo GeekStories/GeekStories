@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeekStories
 
-        I ejnoy coding in Unity C# and PHP! So as you would tell, most of my projects are in those languages.
+        I'm 22, from New Zealand and enjoy development! On the daily I am working on something new. Cyber Security is also an interest of mine (top 1% on tryhackme!)
 - 👀 I’m interested in ...
 
         Web/Game Development. I first lernt to code in 2012 when I got my first computer, and I've been loving it ever since!. It's been a hobby that I have always been fully interested in. (ps, my first language was Batch!)
