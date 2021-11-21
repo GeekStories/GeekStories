@@ -1,21 +1,35 @@
-- 👋 Hi, I’m @GeekStories
+👋 Hi, I’m @GeekStories
 
-        I'm 22, from New Zealand and enjoy development! On the daily I am working on something new. 
-        Cyber Security is also an interest of mine (top 1% on tryhackme!)
-        My first ever program was a RPG game written in Batch using Notepad (classic). 
-        Ever since then I've continued to learn and show a strong interest in development.
-- 👀 I’m interested in ...
+        I'm 22, and from New Zealand. My first ever project was a RPG game 
+        written in Batch using Notepad (classic). 
+        
+        ps: it has since been lost to time, but a remake in notepad could be on the books
+        
+👀 I’m interested in 
 
-        Web/Game Development. I first lernt to code in 2012 when I got my first computer, and I've been loving it ever since!. 
-        It's been a hobby that I have always been fully interested in.
-- 🌱 I’m currently learning ...
+        - Game Development
+                I started my journey around 2012 when I was given my first computer. 
+                I learnt Batch, and wrote an RPG in Notepad (classic). I dabble in 
+                it from time to time nowdays, however I do have a handful
+                of projects I plan on picking up again!
+        
+        - Web Development
+                I first learnt how to create a webpage in my High School IT class.
+                I finished my first Diploma in Web Development in 2020, and I've continued 
+                on to a Software Development Diploma in 2021 where I'll 
+                learn Full Stack Development with Node.
+                
+        - Cyber Security
+                One of my things to do in my spare time is learn cyber security (top 1% on tryhackme!)
+                I started on THM, working through their different pathways. My journey for cyber 
+                started in late 2020, but kicked off in early 2021.
+        
+🌱 I’m currently learning
 
-        Web Development! In 2020 I completed a Diploma in Web Development and learnt the basics of PHP. 
-        This year in 2021 I'm studying furthermore, this time a 2 year Diploma and learning MERN stack. 
-- 💞️ I’m looking to collaborate on ...
-
-        Mostly any CMS projects or Unity Engine games! 
-- 📫 How to reach me ...
+        Web Development! In early 2021 I started a 2 year Diploma in Software Development. 
+        So far I've learnt Full Stack Development, creating the front-end and back-end
+        of a web app/site, as well as creating, using and testing api's.    
+        
+📫 How to reach me 
         
         - Feel free to contact me via my personal website [Here](https://damonpitkethley.com/contact)
-        - Throw me an email @ [Outlook](mailto:damonpitkethley53@outlook.com)
