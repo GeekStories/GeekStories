@@ -10,23 +10,22 @@
         - Game Development
                 I started my journey around 2012 when I was given my first computer. 
                 I learnt Batch, and wrote an RPG in Notepad (classic). I dabble in 
-                it from time to time nowdays, however I do have a handful
-                of projects I plan on picking up again!
+                game development from time to time nowdays, however I do have a handful
+                of projects I do plan on picking up again!
         
         - Web Development
                 I first learnt how to create a webpage in my High School IT class.
                 I finished my first Diploma in Web Development in 2020, and I've continued 
-                on to a Software Development Diploma in 2021 where I'll 
-                learn Full Stack Development with Node.
+                on to a Software Development Diploma in 2021.
                 
         - Cyber Security
-                One of my things to do in my spare time is learn cyber security (top 1% on tryhackme!)
-                I started on THM, working through their different pathways. My journey for cyber 
-                started in late 2020, but kicked off in early 2021.
+                In my spare time, I enjoy learning cyber security. I started this adventure on
+                TryHackMe, working through their different pathways. 
+                My journey in cyber security kicked off in early 2021.
         
 🌱 I’m currently learning
 
-        Web Development! In early 2021 I started a 2 year Diploma in Software Development. 
+        Full Stack Web Development! In early 2021 I started a 2 year Diploma in Software Development. 
         So far I've learnt Full Stack Development, creating the front-end and back-end
         of a web app/site, as well as creating, using and testing api's.    
         
