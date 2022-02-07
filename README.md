@@ -1,9 +1,6 @@
 👋 Hi, I’m @GeekStories
 
-        I'm 22, and from New Zealand. My first ever project was a RPG game 
-        written in Batch using Notepad (classic). 
-        
-        ps: it has since been lost to time, but a remake in notepad could be on the books
+        I'm 23, and from New Zealand.
         
 👀 I’m interested in 
 
