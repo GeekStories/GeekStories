@@ -12,19 +12,19 @@
         
         - Web Development
                 I first learnt how to create a webpage in my High School IT class.
-                I finished my first Diploma in Web Development in 2020, and I've continued 
-                on to a Software Development Diploma in 2021.
+                I completed a Diploma in Web Development and Design in 2020, and I've continued 
+                on to a Diploma in Software Development in 2021-2023. I plan to continue studying
+                in 2023  and onwards.
                 
         - Cyber Security
-                In my spare time, I enjoy learning cyber security. I started this adventure on
-                TryHackMe, working through their different pathways. 
-                My journey in cyber security kicked off in early 2021.
+                In my spare time, I enjoy learning Cyber Security, more specifically
+                Ethical Hacking or Pentesting.. I started this adventure on
+                TryHackMe, working through their different pathways and have enjoyed
+                every moment since starting.
         
 🌱 I’m currently learning
 
-        Full Stack Web Development! In early 2021 I started a 2 year Diploma in Software Development. 
-        So far I've learnt Full Stack Development, creating the front-end and back-end
-        of a web app/site, as well as creating, using and testing api's.    
+        Full Stack Web Development! In early 2021 I started a 2 year Level 6 Diploma in Software Development.
         
 📫 How to reach me 
         
