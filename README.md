@@ -1,6 +1,6 @@
 👋 Hi, I’m @GeekStories
 
-        I'm 24, and from New Zealand.
+        I'm 24, and from New Zealand
         
 👀 I’m interested in 
 
@@ -9,7 +9,7 @@
                 an interest that has lasted many years. I started formal studies in 2020, achieving a 
                 Diploma in Web Development and Design, I've continued on to a Diploma in Software Development in 2021-2023.
                 Since starting, I've learnt lots of cool stuff such OpenAPI, Mobile Development using React Native
-                and Full stack development using both MERN and PERN stacks.
+                and Full stack development using both MERN and PERN stacks
                 
                 
         - Game Development
@@ -23,12 +23,12 @@
         - Cyber Security
                 Also in my spare time I enjoy learning Cyber Security, more 
                 specifically Ethical Hacking or Pentesting. I started this adventure on TryHackMe, working through 
-                their different pathways and have enjoyed every moment since starting.
-        
+                their different pathways and have enjoyed every moment since starting
+       
 🌱 I’m currently learning
 
-        Full Stack Web Development! In early 2021 I started a 2 year Level 6 Diploma in Software Development.
+        Full Stack Web Development! In early 2021 I started a 2 year Level 6 Diploma in Software Development
         
 📫 How to reach me 
         
-        - Feel free to contact me via my personal website [Here](https://www.damonpitkethley.com/contact)
+        - Feel free to contact me via my personal [website](https://damonpitkethley.com)
