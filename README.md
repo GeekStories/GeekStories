@@ -27,7 +27,7 @@
        
 🌱 I’m currently learning
 
-        First year Universiry! In early 2024 I start my BA(Hons) Major in Game Development.
+        First year University! In early 2024 I start my BA(Hons) Major in Game Development at the University of Canterbury.
         
 📫 How to reach me 
         
