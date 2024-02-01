@@ -31,4 +31,4 @@
         
 📫 How to reach me 
         
-        - Feel free to contact me via my personal [website](https://damonpitkethley.com/contact)
+        - Feel free to contact me via my personal [website](https://damonpitkethley.com/contact).
