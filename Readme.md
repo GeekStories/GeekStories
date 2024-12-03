@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekstories&label=Profile%20views&color=0e75b6&style=flat-square" alt="geekstories" /> </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 🔭 I’m currently working on [TradesFolder](https://tradesfolder.com)
 
 - 🌱 I’m currently learning **Computer Science**
