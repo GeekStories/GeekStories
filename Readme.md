@@ -1,34 +1,25 @@
-👋 Hi, I’m @GeekStories
+<h1 align="center">Hi 👋, I'm Damon Pitkethley</h1>
+<h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
-        I'm 25, and from New Zealand
-        
-👀 I’m interested in 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekstories&label=Profile%20views&color=0e75b6&style=flat-square" alt="geekstories" /> </p>
 
-        - Web Development
-                I first learnt how to create a webpage at High School. It kick started
-                an interest that has lasted many years. I started formal studies in 2020, achieving a 
-                Diploma in Web Development and Design, I've continued on to a Diploma in Software Development in 2021 through to 2023.
-                Since starting, I've learnt lots of cool stuff such OpenAPI, Mobile Development using React Native
-                and Full stack development using both MERN and PERN stacks. We also touched on Machine Learning using Pandas and Jupyter Notebooks.
-                
-                
-        - Game Development
-                I started my journey around 2012 when I was given my first computer. 
-                I dabled in Batch Language, and wrote an RPG in Notepad (classic). I develop games in 
-                my spare time during my studies, however I do have a handful of old projects I would like to 
-                work on again! Unity Engine (C#) is my engine of choice as I've used it for multiple years now 
-                and love the fact I can build to multiple platforms very easily. In 2024 I am starting a BA(Hons) Majoring in Game Development.
-                      
-                      
-        - Cyber Security
-                Also in my spare time I enjoy learning Cyber Security, more 
-                specifically Ethical Hacking or Pentesting. I started this adventure on TryHackMe, working through 
-                their different pathways and have enjoyed every moment since starting
-       
-🌱 I’m currently learning
+- 🔭 I’m currently working on [TradesFolder](https://tradesfolder.com)
 
-        First year University! In early 2024 I start my BA(Hons) Major in Game Development at the University of Canterbury.
-        
-📫 How to reach me 
-        
-        - Feel free to contact me via my personal [website](https://damonpitkethley.com/contact).
+- 🌱 I’m currently learning **Computer Science**
+
+- 👨‍💻 All of my projects are available at [https://damonpitkethley.com](https://damonpitkethley.com)
+
+- 📝 I regularly write articles on [https://www.damonpitkethley.com/blog](https://www.damonpitkethley.com/blog)
+
+- 💬 Ask me about **NextJS or Unity**
+
+- 📫 How to reach me **https://damonpitkethley.com/contact**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/geekstories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekstories" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/damonpitkethley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damonpitkethley" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/geekstories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geekstories" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekstories&" alt="geekstories" /></p>
