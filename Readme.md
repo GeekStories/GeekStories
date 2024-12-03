@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damon Pitkethley</h1>
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekstories&label=Profile%20views&color=0e75b6&style=flat-square" alt="geekstories" /> </p>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -75,18 +73,6 @@ Python                   1 repo              ████░░░░░░░�
 
  Last Updated on 03/12/2024 02:47:57 UTC
 <!--END_SECTION:waka-->
-
-- 🔭 I’m currently working on [TradesFolder](https://tradesfolder.com)
-
-- 🌱 I’m currently learning **Computer Science**
-
-- 👨‍💻 All of my projects are available at [https://damonpitkethley.com](https://damonpitkethley.com)
-
-- 📝 I regularly write articles on [https://www.damonpitkethley.com/blog](https://www.damonpitkethley.com/blog)
-
-- 💬 Ask me about **NextJS or Unity**
-
-- 📫 How to reach me **https://damonpitkethley.com/contact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
