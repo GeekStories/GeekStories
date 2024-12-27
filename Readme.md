@@ -35,19 +35,16 @@ Sunday                   22 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-JavaScript               48 mins             █████████████████████████   99.25 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TradesFolder             48 mins             █████████████████████████   98.24 % 
-portfolio                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -55,7 +52,7 @@ Windows                  49 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2024 18:40:32 UTC
+ Last Updated on 27/12/2024 18:40:09 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
