@@ -35,16 +35,18 @@ Sunday                   22 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 mins              █████████████░░░░░░░░░░░░   52.03 % 
+Git Config               4 mins              ████████████░░░░░░░░░░░░░   47.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  5 mins              █████████████░░░░░░░░░░░░   52.03 % 
+VS Code                  4 mins              ████████████░░░░░░░░░░░░░   47.97 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+University               10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -52,7 +54,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 18:40:09 UTC
+ Last Updated on 28/12/2024 18:38:56 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
