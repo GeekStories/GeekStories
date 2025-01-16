@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,16 +35,16 @@ Sunday                   22 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C#                       5 hrs 7 mins        █████████████████████████   100.00 % 
+C#                       5 hrs 13 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            5 hrs 7 mins        █████████████████████████   100.00 % 
+Visual Studio            5 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Pixel Dungeon Tycoon     5 hrs 7 mins        █████████████████████████   100.00 % 
+Pixel Dungeon Tycoon     5 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -52,7 +52,7 @@ Windows                  5 hrs 7 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2025 18:39:31 UTC
+ Last Updated on 16/01/2025 18:39:55 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
