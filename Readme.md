@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,19 +35,19 @@ Sunday                   22 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C#                       5 hrs 57 mins       ██████████████████████░░░   89.57 % 
-Python                   41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+C#                       7 hrs 13 mins       ███████████████████████░░   91.24 % 
+Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🔥 Editors: 
-Visual Studio            5 hrs 57 mins       ██████████████████████░░░   89.57 % 
-PyCharm                  41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Visual Studio            7 hrs 13 mins       ███████████████████████░░   91.24 % 
+PyCharm                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🐱‍💻 Projects: 
-Pixel Dungeon Tycoon     5 hrs 57 mins       ██████████████████████░░░   89.57 % 
-University               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Pixel Dungeon Tycoon     7 hrs 13 mins       ███████████████████████░░   91.24 % 
+University               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 💻 Operating System: 
-Windows                  6 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -55,7 +55,7 @@ Windows                  6 hrs 38 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2025 18:39:49 UTC
+ Last Updated on 18/01/2025 18:37:40 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
