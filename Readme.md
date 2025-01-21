@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,7 +59,7 @@ Windows                  18 hrs 11 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2025 18:39:33 UTC
+ Last Updated on 21/01/2025 18:41:15 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
