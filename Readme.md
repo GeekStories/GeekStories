@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,16 +35,21 @@ Sunday                   22 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 39 mins        █████████████████░░░░░░░░   68.32 % 
+C++                      45 mins             ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 hr 39 mins        █████████████████░░░░░░░░   68.32 % 
+VS Code                  46 mins             ████████░░░░░░░░░░░░░░░░░   31.68 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Heartwood                1 hr 39 mins        █████████████████░░░░░░░░   68.32 % 
+Quiz 3                   46 mins             ████████░░░░░░░░░░░░░░░░░   31.68 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -52,7 +57,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2025 18:43:53 UTC
+ Last Updated on 05/06/2025 18:53:38 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
