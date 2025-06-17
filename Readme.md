@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,16 +35,20 @@ Sunday                   22 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C#                       8 hrs 9 mins        █████████████████████████   100.00 % 
+C#                       7 hrs 47 mins       █████████████████████████   98.13 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Visual Studio            8 hrs 9 mins        █████████████████████████   100.00 % 
+Visual Studio            7 hrs 47 mins       █████████████████████████   98.13 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🐱‍💻 Projects: 
-Heartwood                8 hrs 9 mins        █████████████████████████   100.00 % 
+Heartwood                7 hrs 47 mins       █████████████████████████   98.13 % 
+budget-buddy             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Windows                  8 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -52,7 +56,7 @@ Windows                  8 hrs 9 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2025 18:47:49 UTC
+ Last Updated on 17/06/2025 18:47:46 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
