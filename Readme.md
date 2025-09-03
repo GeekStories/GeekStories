@@ -35,22 +35,16 @@ Sunday                   22 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-CSS                      46 mins             ██████████████████░░░░░░░   71.76 % 
-HTML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-C#                       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             ███████████████████████░░   93.26 % 
-Visual Studio            4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-site3439                 55 mins             ██████████████████████░░░   86.25 % 
-portfolio                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Instant Sale             4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -58,7 +52,7 @@ Windows                  1 hr 4 mins         ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2025 18:43:15 UTC
+ Last Updated on 03/09/2025 18:42:26 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
