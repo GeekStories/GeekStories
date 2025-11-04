@@ -2,16 +2,57 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-125.8%20thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+🌆 Daytime                56 commits          ██████████░░░░░░░░░░░░░░░   38.62 % 
+🌃 Evening                53 commits          █████████░░░░░░░░░░░░░░░░   36.55 % 
+🌙 Night                  32 commits          ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Tuesday                  25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Wednesday                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Thursday                 18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Friday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Sunday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Pacific/Auckland
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 18:43:57 UTC
+ Last Updated on 04/11/2025 18:47:04 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
