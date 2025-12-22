@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,20 +35,16 @@ Sunday                   24 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C#                       6 hrs 26 mins       ███████████████████████░░   93.22 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+C#                       6 hrs 26 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            6 hrs 26 mins       ███████████████████████░░   93.22 % 
-VS Code                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Visual Studio            6 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Project Lemons           6 hrs 26 mins       ███████████████████████░░   93.22 % 
-portfolio                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Project Lemons           6 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -56,7 +52,7 @@ Windows                  6 hrs 54 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2025 18:46:14 UTC
+ Last Updated on 22/12/2025 18:50:15 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
