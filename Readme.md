@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,16 +35,16 @@ Sunday                   26 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C#                       7 hrs 51 mins       █████████████████████████   100.00 % 
+C#                       8 hrs 2 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            7 hrs 51 mins       █████████████████████████   100.00 % 
+Visual Studio            8 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Project Lemons           7 hrs 51 mins       █████████████████████████   100.00 % 
+Project Lemons           8 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -52,7 +52,7 @@ Windows                  7 hrs 51 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 23/01/2026 18:55:25 UTC
+ Last Updated on 24/01/2026 18:49:41 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
