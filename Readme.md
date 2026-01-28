@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,17 +35,21 @@ Sunday                   26 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C#                       1 hr 46 mins        █████████████████████████   100.00 % 
+C#                       1 hr 29 mins        █████████████████████░░░░   82.94 % 
+Python                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 46 mins        █████████████████████████   100.00 % 
+Visual Studio            1 hr 29 mins        █████████████████████░░░░   82.94 % 
+VS Code                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
 
 🐱‍💻 Projects: 
-Project Lemons           1 hr 45 mins        █████████████████████████   99.60 % 
-Heartwood                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Project Lemons           1 hr 29 mins        █████████████████████░░░░   82.54 % 
+PitchExtractor           18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Heartwood                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -53,7 +57,7 @@ Windows                  1 hr 46 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2026 19:01:07 UTC
+ Last Updated on 28/01/2026 18:57:56 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
