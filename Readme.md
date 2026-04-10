@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,20 +35,17 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Python                   1 hr 43 mins        ███████████████░░░░░░░░░░   59.50 % 
-JSON                     1 hr 1 min          █████████░░░░░░░░░░░░░░░░   35.39 % 
-C#                       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+JSON                     59 mins             ██████████████░░░░░░░░░░░   54.98 % 
+Python                   48 mins             ███████████░░░░░░░░░░░░░░   45.02 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 44 mins       ████████████████████████░   94.89 % 
-Visual Studio            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-butterspy                2 hrs 44 mins       ████████████████████████░   94.89 % 
-Heartwood                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+butterspy                1 hr 47 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -56,7 +53,7 @@ Windows                  2 hrs 53 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2026 19:43:47 UTC
+ Last Updated on 10/04/2026 19:24:43 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
