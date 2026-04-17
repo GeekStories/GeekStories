@@ -8,55 +8,12 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.82%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-🌆 Daytime                79 commits          █████████░░░░░░░░░░░░░░░░   37.98 % 
-🌃 Evening                75 commits          █████████░░░░░░░░░░░░░░░░   36.06 % 
-🌙 Night                  43 commits          █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Tuesday                  35 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Wednesday                30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Friday                   44 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Sunday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Pacific/Auckland
-
-💬 Programming Languages: 
-Python                   5 hrs 7 mins        ████████████████░░░░░░░░░   65.81 % 
-C#                       1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-JSON                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 21 mins       ████████████████████░░░░░   81.66 % 
-Visual Studio            1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-
-🐱‍💻 Projects: 
-butterspy                6 hrs 21 mins       ████████████████████░░░░░   81.66 % 
-Project Lemons           1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-
-💻 Operating System: 
-Windows                  7 hrs 47 mins       █████████████████████████   100.00 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2026 19:41:05 UTC
+ Last Updated on 17/04/2026 19:35:26 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
