@@ -2,16 +2,62 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2056%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.87%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+🌆 Daytime                79 commits          █████████░░░░░░░░░░░░░░░░   37.44 % 
+🌃 Evening                76 commits          █████████░░░░░░░░░░░░░░░░   36.02 % 
+🌙 Night                  45 commits          █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Tuesday                  37 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Wednesday                30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Friday                   44 commits          █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Sunday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Pacific/Auckland
+
+💬 Programming Languages: 
+C#                       6 hrs 57 mins       ████████████████████████░   97.71 % 
+INI                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+
+🔥 Editors: 
+Visual Studio            6 hrs 57 mins       ████████████████████████░   97.71 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+
+🐱‍💻 Projects: 
+Project Lemons           6 hrs 57 mins       ████████████████████████░   97.71 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+911 First Responders     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+
+💻 Operating System: 
+Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 19:41:54 UTC
+ Last Updated on 24/05/2026 19:44:58 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
