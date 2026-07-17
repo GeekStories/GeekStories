@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,16 +35,18 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 11 mins             ███████████████░░░░░░░░░░   59.04 % 
+JSON                     8 mins              ██████████░░░░░░░░░░░░░░░   40.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Documents                14 mins             ███████████████████░░░░░░   75.14 % 
+Unknown Project          4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -52,7 +54,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 19:37:26 UTC
+ Last Updated on 17/07/2026 19:37:35 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
