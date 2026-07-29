@@ -2,6 +2,10 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2029%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.87%20thousand%20lines%20of%20code-blue?style=flat)
@@ -33,16 +37,17 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-Binary                   0 secs              █████████████████████████   100.00 % 
+C#                       5 mins              ███████████████████░░░░░░   76.48 % 
+Binary                   1 min               ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
 
 🔥 Editors: 
-Visual Studio            0 secs              █████████████████████████   100.00 % 
+Visual Studio            6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TimelineEditor           0 secs              █████████████████████████   100.00 % 
+TimelineEditor           6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -56,7 +61,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 19:57:40 UTC
+ Last Updated on 29/07/2026 19:50:02 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
