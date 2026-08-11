@@ -37,16 +37,16 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C++                      55 mins             █████████████████████████   100.00 % 
+C++                      44 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            55 mins             █████████████████████████   100.00 % 
+Visual Studio            44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-week_3_exercises         55 mins             █████████████████████████   100.00 % 
+GD1P01_Exercises         44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -60,7 +60,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:27:00 UTC
+ Last Updated on 11/08/2026 19:31:22 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
