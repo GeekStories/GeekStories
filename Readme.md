@@ -37,19 +37,18 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C++                      2 hrs 48 mins       █████████████████████████   100.00 % 
+C++                      7 hrs 22 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 48 mins       █████████████████████████   100.00 % 
+Visual Studio            7 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SlotMachine              2 hrs 8 mins        ███████████████████░░░░░░   76.36 % 
-Week005-CompoundVariables26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Week6_ClassExerciseSln   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Project_1                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+SlotMachine              6 hrs 58 mins       ████████████████████████░   94.62 % 
+Week6_ClassExerciseSln   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Project_1                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +62,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:16:40 UTC
+ Last Updated on 31/08/2026 22:56:52 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
