@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
@@ -37,18 +37,19 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C++                      7 hrs 22 mins       █████████████████████████   100.00 % 
+C++                      5 hrs 15 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            7 hrs 22 mins       █████████████████████████   100.00 % 
+Visual Studio            5 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SlotMachine              6 hrs 58 mins       ████████████████████████░   94.62 % 
-Week6_ClassExerciseSln   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Project_1                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+SlotMachine              4 hrs 49 mins       ███████████████████████░░   91.79 % 
+Pointers_Exercise        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Week6_ClassExerciseSln   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Project_1                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Windows                  7 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -62,7 +63,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 22:56:52 UTC
+ Last Updated on 01/09/2026 21:10:11 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
