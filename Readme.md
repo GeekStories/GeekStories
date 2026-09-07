@@ -37,19 +37,20 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C++                      9 hrs 25 mins       █████████████████████████   100.00 % 
+C++                      6 hrs 1 min         █████████████████████████   99.98 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Visual Studio            9 hrs 25 mins       █████████████████████████   100.00 % 
+Visual Studio            6 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SlotMachine              7 hrs 46 mins       █████████████████████░░░░   82.52 % 
-Project_1                1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Pointers_Exercise        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Week6_ClassExerciseSln   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+SlotMachine              3 hrs 56 mins       ████████████████░░░░░░░░░   65.46 % 
+Project_1                1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Week 07-08 Pointers_Ex16 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Pointers_Exercise        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 💻 Operating System: 
-Windows                  9 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +64,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:33:47 UTC
+ Last Updated on 07/09/2026 21:37:55 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
