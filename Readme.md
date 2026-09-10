@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
@@ -37,19 +37,19 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C++                      10 hrs 33 mins      █████████████████████████   99.99 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C++                      8 hrs 5 mins        █████████████████████████   99.98 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Visual Studio            10 hrs 33 mins      █████████████████████████   100.00 % 
+Visual Studio            8 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SlotMachine              7 hrs 30 mins       ██████████████████░░░░░░░   71.06 % 
-Project_1                2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Week 07-08 Pointers_Ex16 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+SlotMachine              5 hrs 2 mins        ████████████████░░░░░░░░░   62.22 % 
+Project_1                2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
+Week 07-08 Pointers_Ex16 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 💻 Operating System: 
-Windows                  10 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +63,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:02:08 UTC
+ Last Updated on 10/09/2026 21:00:59 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
