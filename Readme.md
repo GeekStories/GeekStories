@@ -37,19 +37,17 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C++                      11 hrs 32 mins      █████████████████████████   99.99 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C++                      9 hrs 54 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            11 hrs 33 mins      █████████████████████████   100.00 % 
+Visual Studio            9 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SlotMachine              8 hrs 29 mins       ██████████████████░░░░░░░   73.53 % 
-Project_1                2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Week 07-08 Pointers_Ex16 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+SlotMachine              7 hrs 29 mins       ███████████████████░░░░░░   75.57 % 
+Project_1                2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
 
 💻 Operating System: 
-Windows                  11 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +61,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 20:58:33 UTC
+ Last Updated on 14/09/2026 21:55:57 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
