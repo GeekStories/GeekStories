@@ -37,19 +37,18 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C++                      1 hr 18 mins        █████████████████████████   99.91 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+C++                      49 mins             █████████████████████████   99.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 18 mins        █████████████████████████   100.00 % 
+Visual Studio            49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Battleships              39 mins             █████████████░░░░░░░░░░░░   50.46 % 
-Week10_ClassQuestion     28 mins             █████████░░░░░░░░░░░░░░░░   37.06 % 
-Project_1                9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Battleships              40 mins             ████████████████████░░░░░   80.49 % 
+Project_1                9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +62,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:55:37 UTC
+ Last Updated on 19/10/2026 22:30:56 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
