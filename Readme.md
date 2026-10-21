@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Hobbyist Game Dev</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
@@ -37,19 +37,18 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C++                      2 hrs 28 mins       █████████████████████████   99.95 % 
+C++                      2 hrs 18 mins       █████████████████████████   99.95 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 28 mins       █████████████████████████   100.00 % 
+Visual Studio            2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Week11_Inheritance_Ex7   1 hr 15 mins        █████████████░░░░░░░░░░░░   51.28 % 
-Battleships              1 hr 2 mins         ███████████░░░░░░░░░░░░░░   42.13 % 
-Project_1                9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Week11_Inheritance_Ex7   1 hr 15 mins        ██████████████░░░░░░░░░░░   54.90 % 
+Battleships              1 hr 2 mins         ███████████░░░░░░░░░░░░░░   45.10 % 
 
 💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +62,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 21:45:47 UTC
+ Last Updated on 21/10/2026 21:51:54 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
