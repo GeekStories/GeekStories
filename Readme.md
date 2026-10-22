@@ -37,18 +37,17 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C++                      2 hrs 18 mins       █████████████████████████   99.95 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+C++                      2 hrs 35 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            2 hrs 18 mins       █████████████████████████   100.00 % 
+Visual Studio            2 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Week11_Inheritance_Ex7   1 hr 15 mins        ██████████████░░░░░░░░░░░   54.90 % 
-Battleships              1 hr 2 mins         ███████████░░░░░░░░░░░░░░   45.10 % 
+Battleships              1 hr 19 mins        █████████████░░░░░░░░░░░░   51.22 % 
+Week11_Inheritance_Ex7   1 hr 15 mins        ████████████░░░░░░░░░░░░░   48.78 % 
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -62,7 +61,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:51:54 UTC
+ Last Updated on 22/10/2026 21:47:17 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
