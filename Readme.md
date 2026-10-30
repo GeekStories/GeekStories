@@ -37,20 +37,20 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-C++                      4 hrs 41 mins       ████████████████████████░   96.36 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+C++                      5 hrs 53 mins       ████████████████████████░   97.08 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Visual Studio            4 hrs 42 mins       ████████████████████████░   96.83 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Visual Studio            5 hrs 54 mins       ████████████████████████░   97.46 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🐱‍💻 Projects: 
-Battleships              4 hrs 43 mins       ████████████████████████░   97.14 % 
-Discrete Function Library8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Battleships              5 hrs 55 mins       ████████████████████████░   97.70 % 
+Discrete Function Library8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 Operating System: 
-Windows                  4 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -64,7 +64,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GeekStories/GeekStories/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:53:02 UTC
+ Last Updated on 30/10/2026 22:31:21 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
